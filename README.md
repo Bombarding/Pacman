@@ -5,5 +5,7 @@ This is a game of pacman that utilizes a random background color change function
 Set to run in eclipse
 
 Up,Down,Left,Right --> Move
+
 s --> Start
+
 m --> Mod (add lives)
