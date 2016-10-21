@@ -1,3 +1,5 @@
+![Bombarding](http://cdn.whatismyipaddress.com/images-v4/hacking.png)
+
 #Rainbow Pacman
 
 This is a game of pacman that utilizes a random background color change function every millisecond. If you are prone to seizures or irrated by flashing lights, please do not run.
